@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\67007\Desktop\Assignment 3\Assignment 3\main.cpp(87,102): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\67007\Desktop\Assignment 3\Assignment 3\main.cpp(87,45): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=unsigned int
+          ]
+  Assignment 3.vcxproj -> C:\Users\67007\Desktop\Assignment 3\Assignment 3\x64\Debug\Assignment 3.exe
